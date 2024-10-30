@@ -1,4 +1,4 @@
-web3
-python-dotenv
-pytz
-colorama
+web3==7.4.0
+python-dotenv==1.0.1
+pytz==2024.2
+colorama==0.4.6
